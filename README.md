@@ -1,12 +1,13 @@
 # Dio Desafio Banco
  Criar um banco utilizando Programação Orientada a Objetos
  
-### Classes iniciais
+### Classes
 - **Banco:** Banco Digital que possui "Contas corrente" e "contas salário"
 - **CLiente:** Cliente do banco que pode ter conta corrente e conta salário
 - **Conta:** Classe mãe
 - **ContaCorrente:** Classe filha que herda da classe mãe 'Conta'.
 - **ContaSalario:** Classe filha que herda da classe mãe 'Conta'.
+- **CartaoCredito:** Classe de cartão de credito para cada conta criada
 - **Main:** Classe de execução principal
 
 ### Visibilidades
